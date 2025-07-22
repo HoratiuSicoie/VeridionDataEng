@@ -1,0 +1,21 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb_checkpoints/
+
+# Spark / Hadoop
+.metastore_db/
+derby.log
+*.crc
+
+
+# Environment
+.env
+.venv/
+*.egg-info/
+.envrc
+
+# OS
+.DS_Store
+Thumbs.db

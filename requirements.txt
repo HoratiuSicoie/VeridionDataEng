@@ -1,0 +1,7 @@
+pyarrow
+pandas
+os
+numpy
+pyspark
+pyspark notebook
+graphframes
