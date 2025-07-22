@@ -1,4 +1,4 @@
-# Veridion Product Deduplication
+# Product Deduplication
 
 This project addresses the **deduplication of product records** that contain noise, inconsistencies, and redundancy. It includes:
 
